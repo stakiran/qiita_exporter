@@ -1,0 +1,6 @@
+# access token
+export.bat
+
+# exporterd files
+*.md
+!README.md

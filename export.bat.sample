@@ -1,0 +1,5 @@
+@echo off
+setlocal
+set QIITA_ACCESS_TOKEN=(YOUR-QIITA-ACCESS-TOKEN)
+python %~dp0qiita_exporter.py
+pause
